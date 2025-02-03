@@ -4,3 +4,4 @@ django==2.2.28  # Old unsupported version
 requests==2.9.0  # Older version with potential issues
 pyyaml==3.12  # Known vulnerability in older versions
 cryptography==2.5  # Outdated security library
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
