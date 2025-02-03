@@ -1,5 +1,5 @@
 # Outdated/insecure packages
 flask==0.12.0  # Outdated version with known vulnerabilities
-django==1.11.0  # Old unsupported version
+django==2.2.28  # Old unsupported version
 requests==2.9.0  # Older version with potential issues
 pyyaml==3.12  # Known vulnerability in older versions
